@@ -7,6 +7,7 @@ To use the code, simply run it and enter your name when prompted. The output wil
 ## Example
 Input: "Happy"
 Output:
+
 ![image](https://user-images.githubusercontent.com/123227926/215308035-067e3699-c2cb-4c43-918f-a15f788f3ec0.png)
 
  
